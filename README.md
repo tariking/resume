@@ -18,7 +18,7 @@
 直近業務ではJavaScript+ReactReduxを4年ほど使用しています。ほかに長いものはPHP(cakePHPその他)で8年程度業務経験があります。  
 かつてはバックエンドエンジニアだったので、基本的なサーバ、ネットワーク、DBの知識があります。  
 業務に関しては、顧客折衝、画面デザイン、各種設計とドキュメント整備、開発、テスト、顧客教育、社内新人教育など一通り経験しています。  
-現場では（ざっくりと経験済みなためか）人員が足りない部門にいきなり配置されることがあります。  
+現場ではWebフロントの開発、要件定義、設計、UI/UX設計などを手がけることが多いです。
 <br>
 自分のチームはもちろん、できるだけ関係するほかのチームともコミュニケーションを取り、ブラッシュアップしていきたいと思っています。
 <br>
@@ -31,14 +31,10 @@
 <br>
 <br>
 
-
 ## 直近の職務経歴
 
 #### 2019/10 - 現在 : 東急電鉄の保線要員向けのiPad対応開発 エンジニア
-`JavaScript`
-`React-redux-saga`
-`MaterialUI`
-`Git`
+`JavaScript` `React-redux-saga` `MaterialUI` `Git`
 
 ##### 東急電鉄の保線要員向けのiPad対応アプリケーション開発  
 Webアプリケーション開発で入場したのち、開発、ソースレビュー、クラス設計やデザイン校正、ドキュメント管理、パートナー企業の管理業務兼任。
@@ -46,25 +42,16 @@ Webアプリケーション開発で入場したのち、開発、ソースレ�
 ***
 
 #### 2017/08 - 2019/06 : 日産証券/DMM株 フロント開発チーム エンジニア/PM
-`JavaScript`
-`React-redux`
-`TwitterBootStrap`
-`sass/less`
-`Git`
+`JavaScript` `React-redux` `TwitterBootStrap` `sass/less` `Git`
 
 ##### FX、CFD、先物オプション取引、株取引のWebフロントツール開発  
 Webフロントエンジニアとして入場。開発後半からジョインし、初期はフロントコンポーネント開発、CSS記述など。
-プロジェクト終盤からはPM的ポジションとなり、顧客折衝、要件定義、工数管理、テスト工程管理、新人教育、プログラム、色彩設計(チャート)など幅広く担当しました。
+プロジェクト終盤からはPM的ポジションとなり、顧客折衝、要件定義、工数管理、新人教育、プログラム、色彩設計(チャート)など幅広く担当しました。
 <br>
 ***
 
 #### 2017/08 - 2019/06 : GMOWebFX/GMOFXスマホ フロント開発チーム エンジニア/設計
-`JavaScript`
-`KnockoutJS`
-`Git`
-`AdoveXD`
-`AdovePhotoshop`
-`AdoveIllustrator`
+`JavaScript` `Typecript` `KnockoutJS` `Git` `AdoveXD` `AdovePhotoshop` `AdoveIllustrator`
 
 ##### FXWebフロント開発  
 　Webフロントエンジニアとして入場。開発初期からのジョインで、コンポーネント複数開発後、デザイン要員がおらずCSS担当に変更。  
@@ -79,6 +66,7 @@ Webフロントエンジニアとして入場。開発後半からジョイン�
 
 [全ての職務履歴](/JOBHSTORY.md)
 <br>
+<br>
 
 ## ポートフォリオ
 
@@ -88,107 +76,99 @@ Webフロントエンジニアとして入場。開発後半からジョイン�
 
 ## スキル・経験
 
-### 言語
-- プロダクションのコードを書いた経験があるもの（最近よく触っている順）
-    - JavaScript / 5year over
-    - TypeScript / 1year
-    - PHP / 8year over(ブランクあり)
-    - C / 2year(ブランクあり)
-- そこそこ触ったことがあるもの
-    - Node.js / 3year
-    - Nodist / 2year
-    - SQL / 10year over
-- かじった程度
-    - Ruby
-    - C#
-### フレームワーク
-- そこそこ触ったことがあるもの
-    - ReactRedux / 3year over
-    - CakePHP / 3year over
-    - KnockoutJS / 1year
-    - Joomla! / 3year over(ブランクあり)
-    - OpenPNE / 6month(ブランクあり)
-- かじった程度
-    - angular / private
-    - Ruby on Rails / 3month
-    - Vue.js / private
-    - Laravel / private
-    - Pyson / private
-    - Android Studio / private
+#### ポジション:
 
-### デザイン
-- CSS
-    - CSS / 5year
-    - sass / 1year
-    - less / 1year
-- MaterialUI / 1year
-- TwitterBootStrap / 2year
+| 名称 | 経験年数 | 内容 |
+| ---- | ------- | ----- |
+| PM | 2year | GMOクリック証券のスマホ開発 |
+| チームリーダー | 3year | 社員が少ない場合はよくある |
+| プログラマ | 10year ober |  |
+| 営業補助 | - | 客先同行など |
+| 新人教育 | - | チーム内に新人がいる場合は担当 |
 
-### Adobe
-- Photoshop
-    - 基本的な知識
-- illustrator
-    - 基本的な知識
-- XD
-    - スマホの証券システムを全画面構築経験あり
+#### 言語/環境:
 
-### クラウドインフラ
-- AWS
-    - データ格納の基本サービスのみ使用、美容外科カルテに使用
+| 名称 | 経験年数 | レベル |
+| ---- | ------- | ----- |
+| JavaScript(es6) | 3year | プロダクトコードを書いた経験がある |
+| TypeScript | around 1year | プロダクトコードを書いた経験がある |
+| PHP | 8year over (with blank) | プロダクトコードを書いた経験がある |
+| SQL | 10year over (with blank) | プロダクトコードを書いた経験がある |
+| Node.js | 3year | 開発で使用したことがある |
+| VMware | 5year | 開発で使用したことがある |
+| Ruby | - | かじった程度 |
+| C# | - | かじった程度 |
+| C | 3year (with blank) | プロダクトコードを書いた経験があるが忘れた |
+| Kotlin | - | プライベートのみ |
+| Pyson | - | プライベートのみ |
 
-### データベース
-- MySQL
-    - 基本的な知識・利用経験のみ
-- PostgreSQL
-    - 基本的な知識・利用経験のみ 
-- DB2
-    - 基本的な知識および、初期のDB2試験本の解説担当
-    [Link](https://www.i-learning.jp/service/professional_course.html)
-- Oracle
-    - 基本的な知識・利用経験のみ 
+#### フレームワーク:
 
-### Webサーバ
-- Apache
-    - 普通に使う程度
-    
-### メールサーバ
-- SMTP
-    - 普通に使う程度
+| 名称 | 経験年数 | レベル |
+| ----- | ------- | ----- |
+| ReactRedux | 3year over | プロダクトコードを書いた経験がある |
+| KnockoutJS | 1year | プロダクトコードを書いた経験がある |
+| CakePHP | 3year over | プロダクトコードを書いた経験がある |
+| Joomla! | 1year | プロダクトコードを書いた経験がある |
+| OpenPNE | 6month | プロダクトコードを書いた経験がある |
+| Ruby on Rails | 3month | かじった程度 |
+| angular | - | プライベートのみ |
+| Vue.js | - | プライベートのみ |
+| Laravel | - | プライベートのみ |
 
-### ロギング系
-- SNMPベース独自開発
-    - 基本的な監視・アラーティング
+#### デザイン関連:
 
-### テスト自動化
-- Selenium
-    - 基本的な知識
-- BeHat
-    - 社内に普及させようとして失敗
+| 名称 | 経験年数 | レベル |
+| ----- | ------- | ----- |
+| CSS | 5year | プロダクトコードを書いた経験がある |
+| sass,less | 1year | プロダクトコードを書いた経験がある |
+| MaterialUI | 1year | プロダクトコードを書いた経験がある |
+| TwitterBootStrap | 3year | プロダクトコードを書いた経験がある |
+| Adobe Photoshop | - | 基本的な知識 |
+| Adobe illustrator | - | 基本的な知識 |
+| Adobe XD | 1year | プロダクトコードを書いた経験がある |
 
-### ジョブスケジューラ
-- Jenkins
-    - 運用のみ
+#### データベース/クラウドインフラ:
 
-### 課題管理
-- JIRA
-    - 基本的な案件管理・スクラム開発
-- Backlog
-    - 基本的な案件管理、マネージメント作業、Wiki作成
+| 名称 | 経験年数 | レベル |
+| ----- | ------- | ----- |
+| DB2 | 3year(with blank) | 基本的な知識・利用経験 |
+| Oracle | 3year(with blank) | 基本的な知識および、初期のDB2試験本の解説執筆 |
+| MySQL | 3year | 基本的な知識・利用経験 |
+| PostgreSQL | 3year |基本的な知識・利用経験  |
+| SQLite | 3year |  基本的な知識・利用経験|
+| Microsoft Access | (with blank) | プロダクトコードを書いた経験がある |
+| AWS | - | データ格納の基本サービスのみ使用 |
 
-### ナレッジ管理
-- Confluence
-- MediaWiki
-- PukiWiki
+#### OS:
+| 名称 | 経験年数 | レベル |
+| ----- | ------- | ----- |
+| Win | 10year over | 基本的な知識・利用経験 |
+| Mac | 3year | 特定の業務のみ |
+| CentOS | 5year | 基本的な知識 |
+| Ubuntu | - | 基本的な知識 |
+| Fedora | - | 基本的な知識 |
+| openSUSE | 3year | 基本的な知識 |
+| Raspberry Pi2 | - | 入れただけ |
 
-### 開発手法
-- ウォーターフォール型開発
-    - 過去の要件はほぼこれ
-- スクラム開発
-    - 3年以上のスクラムチームでの開発経験
-- アジャイルっぽい開発
-    - トータル5年程度
-- 単独開発
-    - 営業、折衝、開発、納品、顧客教育まで単独実施。3プロジェクトほど。
+#### その他:
+
+| カテゴリ | 名称 | レベル |
+| ------- | ----- | ----- |
+| Webサーバ | Apache | 普通に使う程度 |
+| メールサーバ | SMTP | 普通に使う程度 |
+| ロギング系 | SNMPベース | 基本的な監視・アラーティング |
+| テスト自動化 | Selenium | 基本的な知識 |
+| テスト自動化 | BeHat | 社内に普及させようとして失敗 |
+| ジョブスケジューラ | Jenkins | 利用のみ |
+| 課題管理 | JIRA | 基本的な案件管理 |
+| 課題管理 | Backlog | 基本的な案件管理、マネージメント作業、Wiki作成 |
+| ナレッジ管理 | Confluence | 普通に使う程度 |
+| ナレッジ管理 | MediaWiki | 普通に使う程度 |
+| ナレッジ管理 | PukiWiki | 普通に使う程度 |
+| 開発手法 | ウォーターフォール型開発 | よくある |
+| 開発手法 | スクラム開発 | よくある |
+| 開発手法 | アジャイル開発 | よくある |
 <br>
 
 
