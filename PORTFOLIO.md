@@ -19,8 +19,6 @@
 
 ### GMO FXneo
 
-`JavaScript` `KnockoutJS` `Git`
-
 ###### 実装、CSSコーダー、テストコンポーネント作成
 
 ![GMOFXneo](https://user-images.githubusercontent.com/1941442/71476340-e5a73e80-2827-11ea-9fc2-3b5ad8b6b09e.jpg)
@@ -38,3 +36,13 @@
 ![GMO-FX DASHスピード注文](https://user-images.githubusercontent.com/1941442/71476292-a547c080-2827-11ea-8e7e-e9341340ada2.jpg)
 ![GMO-FX DASHチャート](https://user-images.githubusercontent.com/1941442/71476293-a547c080-2827-11ea-9ae2-f9133864f6f4.jpg)
 ![GMO-FX DASHレート](https://user-images.githubusercontent.com/1941442/71476294-a547c080-2827-11ea-8d7c-c91485871dba.jpg)
+
+
+`JavaScript` `KnockoutJS` `Git`
+
+
+## デザインメイク作品
+
+![IMG_4656](https://user-images.githubusercontent.com/1941442/71611394-c4ee3880-2bdb-11ea-9ab9-41ea432b2770.jpg)
+![IMG_4657](https://user-images.githubusercontent.com/1941442/71611395-c586cf00-2bdb-11ea-8981-c7151406ef68.jpg)
+
