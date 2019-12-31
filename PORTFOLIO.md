@@ -46,6 +46,7 @@
 <br>
 <br>
 <br>
+
 ### デザインメイク作品
 
-<img src="https://user-images.githubusercontent.com/1941442/71611394-c4ee3880-2bdb-11ea-9ab9-41ea432b2770.jpg" width="280px"> <img src="https://user-images.githubusercontent.com/1941442/71611395-c586cf00-2bdb-11ea-8981-c7151406ef68.jpg" width="280px">
+<img src="https://user-images.githubusercontent.com/1941442/71611394-c4ee3880-2bdb-11ea-9ab9-41ea432b2770.jpg" width="240px"> <img src="https://user-images.githubusercontent.com/1941442/71611395-c586cf00-2bdb-11ea-8981-c7151406ef68.jpg" width="240px">
