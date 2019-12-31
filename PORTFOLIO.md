@@ -39,7 +39,6 @@
 ![GMO-FX DASHチャート](https://user-images.githubusercontent.com/1941442/71476293-a547c080-2827-11ea-9ae2-f9133864f6f4.jpg)
 ![GMO-FX DASHレート](https://user-images.githubusercontent.com/1941442/71476294-a547c080-2827-11ea-8d7c-c91485871dba.jpg)
 <br>
-***
 <br>
 <br>
 <br>
@@ -47,6 +46,8 @@
 <br>
 <br>
 
-### デザインメイク作品
+## その他
+
+### デザインメイク卒業作品
 
 <img src="https://user-images.githubusercontent.com/1941442/71611394-c4ee3880-2bdb-11ea-9ab9-41ea432b2770.jpg" width="240px"> <img src="https://user-images.githubusercontent.com/1941442/71611395-c586cf00-2bdb-11ea-8981-c7151406ef68.jpg" width="240px">
