@@ -129,12 +129,12 @@ Webフロントエンジニアとして入場。開発後半からジョイン�
 
 | 名称 | 経験年数 | レベル |
 | ----- | ------- | ----- |
-| DB2 | 3year(with blank) | 基本的な知識・利用経験 |
-| Oracle | 3year(with blank) | 基本的な知識および、初期のDB2試験本の解説執筆 |
-| MySQL | 3year | 基本的な知識・利用経験 |
-| PostgreSQL | 3year |基本的な知識・利用経験  |
-| SQLite | 3year |  基本的な知識・利用経験|
-| Microsoft Access | (with blank) | プロダクトコードを書いた経験がある |
+| DB2 | 3year(with blank) | 基本的な知識・利用経験基本的な知識および、初期のDB2試験本の解説執筆 |
+| Oracle | 3year(with blank) | 基本的な知識・利用経験 |
+| MySQL | 3year | 基本的な知識・利用経験（チューニングなし） |
+| PostgreSQL | 3year |基本的な知識・利用経験（チューニングなし） |
+| SQLite | 3year |  基本的な知識・利用経験（チューニングなし） |
+| Microsoft Access | (with blank) | プロダクトコードを書いた経験がある、簡単なVBのみ |
 | AWS | - | データ格納の基本サービスのみ使用 |
 
 #### OS:
