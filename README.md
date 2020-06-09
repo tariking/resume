@@ -7,7 +7,7 @@
 
 ## 現在の求職ステータス
 
-2020年3月末までの現場を終え、現在**求職中です**。2020年5月もしくは6月以降の新しい現場を探しています:sparkles:
+現在**週3で勤務中です**。:sparkles:
 <br>
 <br>
 
@@ -56,7 +56,7 @@ Webフロントエンジニアとして入場。開発後半からジョイン�
 ***
 
 #### 2017/08 - 2019/06 : GMOWebFX/GMOFXスマホ<br>[ポジション]PG/CSSコーダー/PM/SE/設計
-`JavaScript` `Typecript` `KnockoutJS` `Git` `AdoveXD` `AdovePhotoshop` `AdoveIllustrator
+`JavaScript` `Typecript` `KnockoutJS` `Git` `AdoveXD` `AdovePhotoshop` `AdoveIllustrator`
 ##### FXWebフロント開発  
 　Webフロントエンジニアとして入場。開発初期からのジョインで、コンポーネント複数開発後、デザイン要員がおらずCSS担当に変更。  
 　正式リリース後にパッチリリーステスト向け自動テストツール開発。
