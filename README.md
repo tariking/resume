@@ -1,9 +1,21 @@
+<h1 align="center">Welcome to resume</h1>
 
-[@tariking](https://github.com/tariking)の紹介・職務経歴書です。  
-ご連絡はお気軽にどうぞ。（s45.rita☆gmail.com）
-<br>
-<br>
-<br>
+<div align="center">
+  <a href="https://github.com/tariking">
+      @tariking
+    </a>の紹介・職務経歴書です。  
+</div>
+<div align="center">
+  ご連絡はお気軽にどうぞ。（s45.rita☆gmail.com）
+</div>
+<br />
+
+<div align="center">
+
+[基本情報](#基本情報)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[希望](#希望)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[直近の職務経歴](#直近の職務経歴)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[全ての職務履歴](#全ての職務履歴)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[ポートフォリオ](#ポートフォリオ)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[スキル・経験](#スキル・経験)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[資格・修了証など](#資格・修了証など)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[ETC](#自然言語)
+</div>
+<br />
+
 
 ## 現在の求職ステータス
 
@@ -63,15 +75,6 @@ Webフロントエンジニアとして入場。開発後半からジョイン�
 <br>
 ***
 
-#### 2017/08 - 2019/06 : GMOWebFX/GMOFXスマホ<br>[ポジション]PG/CSSコーダー/PM/SE/設計
-`JavaScript` `Typecript` `KnockoutJS` `Git` `AdoveXD` `AdovePhotoshop` `AdoveIllustrator`
-##### FXWebフロント開発  
-　Webフロントエンジニアとして入場。開発初期からのジョインで、コンポーネント複数開発後、デザイン要員がおらずCSS担当に変更。  
-　正式リリース後にパッチリリーステスト向け自動テストツール開発。
-##### FXスマホ開発  
-　プログラム業務はなし。  
-　フレームワーク選定、画面設計、要件定義、仕様アイコン作成、工数管理、ドキュメント管理などのマネージメント業務。  
-<br>
 <br>
 
 ## 全ての職務履歴

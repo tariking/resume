@@ -2,6 +2,18 @@
 
 ### 業務委託一覧
 
+
+#### 2017/08 - 2019/06 : GMOWebFX/GMOFXスマホ<br>[ポジション]PG/CSSコーダー/PM/SE/設計
+`JavaScript` `Typecript` `KnockoutJS` `Git` `AdoveXD` `AdovePhotoshop` `AdoveIllustrator`
+##### FXWebフロント開発  
+　Webフロントエンジニアとして入場。開発初期からのジョインで、コンポーネント複数開発後、デザイン要員がおらずCSS担当に変更。  
+　正式リリース後にパッチリリーステスト向け自動テストツール開発。
+##### FXスマホ開発  
+　プログラム業務はなし。  
+　フレームワーク選定、画面設計、要件定義、仕様アイコン作成、工数管理、ドキュメント管理などのマネージメント業務。  
+<br>
+***
+
 #### 2017/08 - 2019/06(1年9ヵ月)　株式会社トレードワークス《証券》<br>[プロジェクト名]　日産証券/DMM株(チーム15名以上)<br>[ポジション]　WEBフロント　PG/PM/デザイン補助
 `JavaScript` `React-redux` `TwitterBootStrap` `sass/less` `illustrator` `Photoshop` `Git`
 
