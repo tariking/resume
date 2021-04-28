@@ -54,6 +54,8 @@
 
 `JavaScript` `React` `Vue` `Knockout` `Salesforce` `Apex` `Visualforce` `SOQL` `Lightning Component` `MaterialUI` `SpringBoot` `Git`
 
+##### トラック等の配送周りの動態管理（Cariot）システムの機能開発
+
 UI/UX 設計、資料作成、開発まで
 <br>
 
